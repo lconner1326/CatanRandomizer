@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.shape.Polygon?>
+
+<BorderPane xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SampleController">
+   <bottom>
+      <AnchorPane prefHeight="598.0" prefWidth="815.0" BorderPane.alignment="CENTER">
+         <children>
+            <Polygon fx:id="tile10" fill="DODGERBLUE" layoutX="408.0" layoutY="299.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fill="DODGERBLUE" layoutX="102.0" layoutY="112.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile5" fill="DODGERBLUE" layoutX="451.0" layoutY="225.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile7" fill="DODGERBLUE" layoutX="279.0" layoutY="225.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile13" fill="DODGERBLUE" layoutX="537.0" layoutY="373.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile6" fill="DODGERBLUE" layoutX="365.0" layoutY="225.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile11" fill="DODGERBLUE" layoutX="494.0" layoutY="299.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile14" fill="DODGERBLUE" layoutX="451.0" layoutY="373.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile9" fill="DODGERBLUE" layoutX="322.0" layoutY="299.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile4" fill="DODGERBLUE" layoutX="537.0" layoutY="225.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile3" fill="DODGERBLUE" layoutX="494.0" layoutY="151.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile15" fill="DODGERBLUE" layoutX="365.0" layoutY="373.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile19" fill="DODGERBLUE" layoutX="494.0" layoutY="446.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile2" fill="DODGERBLUE" layoutX="408.0" layoutY="151.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile16" fill="DODGERBLUE" layoutX="279.0" layoutY="373.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile8" fill="DODGERBLUE" layoutX="236.0" layoutY="299.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile12" fill="DODGERBLUE" layoutX="580.0" layoutY="299.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile17" fill="DODGERBLUE" layoutX="322.0" layoutY="446.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile18" fill="DODGERBLUE" layoutX="408.0" layoutY="446.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Polygon fx:id="tile1" fill="#1f93ff" layoutX="322.0" layoutY="151.0" points="-43.0, 25.0, -43.0, -25.0, 0.0, -50.0, 43.0, -25.0, 43.0, 25.0, 0.0, 50.0" stroke="BLACK" strokeType="INSIDE" />
+            <Label fx:id="label_1" layoutX="308.0" layoutY="143.0" text="Label" />
+            <Label fx:id="label_2" layoutX="394.0" layoutY="143.0" text="Label" />
+            <Label fx:id="label_3" layoutX="480.0" layoutY="143.0" text="Label" />
+            <Label fx:id="label_4" layoutX="523.0" layoutY="217.0" text="Label" />
+            <Label fx:id="label_5" layoutX="437.0" layoutY="217.0" text="Label" />
+            <Label fx:id="label_6" layoutX="351.0" layoutY="217.0" text="Label" />
+            <Label fx:id="label_7" layoutX="265.0" layoutY="217.0" text="Label" />
+            <Label fx:id="label_8" layoutX="222.0" layoutY="291.0" text="Label" />
+            <Label fx:id="label_9" layoutX="308.0" layoutY="291.0" text="Label" />
+            <Label fx:id="label_10" layoutX="394.0" layoutY="291.0" text="Label" />
+            <Label fx:id="label_11" layoutX="480.0" layoutY="291.0" text="Label" />
+            <Label fx:id="label_12" layoutX="566.0" layoutY="291.0" text="Label" />
+            <Label fx:id="label_13" layoutX="523.0" layoutY="365.0" text="Label" />
+            <Label fx:id="label_14" layoutX="437.0" layoutY="365.0" text="Label" />
+            <Label fx:id="label_15" layoutX="351.0" layoutY="365.0" text="Label" />
+            <Label fx:id="label_16" layoutX="265.0" layoutY="365.0" text="Label" />
+            <Label fx:id="label_17" layoutX="308.0" layoutY="438.0" text="Label" />
+            <Label fx:id="label_18" layoutX="394.0" layoutY="438.0" text="Label" />
+            <Label fx:id="label_19" layoutX="480.0" layoutY="438.0" text="Label" />
+         </children>
+      </AnchorPane>
+   </bottom>
+</BorderPane>
